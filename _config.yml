@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://gwendiagram.github.io
+title: Gwen Diagram
+tagline: Mutterings about Testing and DevOps
+description: My awesome new site
+paginate: 5
